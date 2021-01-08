@@ -1,0 +1,6 @@
+com\xizi\mapReduce\WordCountJob$WordCountReduce.class
+WordCountJob1$WordCountReduce.class
+WordCountJob1.class
+com\xizi\mapReduce\WordCountJob$WordCountMap.class
+WordCountJob1$WordCountMap.class
+com\xizi\mapReduce\WordCountJob.class
